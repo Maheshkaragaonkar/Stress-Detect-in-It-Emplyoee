@@ -37,7 +37,7 @@ NumPy
 Matplotlib
 Django (for backend)
 🚀 Installation
-git clone https://github.com/your-username/emotion-detection.git
+git clone 
 cd emotion-detection
 pip install -r requirements.txt
 ▶️ How to Run
